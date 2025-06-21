@@ -6,6 +6,14 @@ A full-stack web application that allows users to browse, review, and manage dea
 
 ---
 
+## 🌐 Live UI Preview
+
+Below is a preview of the deployed **Dealerships** page showing the layout, dealer list, and review button functionality for each dealership:
+
+![Dealership List UI](./deployed_dealer_detail.png)
+
+---
+
 ## 🧩 Table of Contents
 
 - [📌 Project Overview](#-project-overview)
